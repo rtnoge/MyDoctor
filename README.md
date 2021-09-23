@@ -9,7 +9,7 @@ Screenshot from App:
 </div>
 
 
-** <a href='https://reactnative.dev/docs/getting-started'>React Native Documentation</a>
 
+More info to <a href='https://reactnative.dev/docs/getting-started'>React Native Documentation</a>
 
 Matur Nuwun
